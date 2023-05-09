@@ -1,3 +1,4 @@
+<apps version="2.0">
 <app keywords="psoc6,audio,ml, machine-learning,sensiml,inference engine,demo" req_capabilities_v2="psoc6 pdm rgb_led [cy8ckit_062s2_43012]">
   <name>SensiML Machine Learning Demo</name>
   <category>Machine Learning</category>
@@ -21,3 +22,4 @@
     </version>
   </versions>
 </app>
+</apps>
